@@ -1,59 +1,54 @@
-# NetkliksApp
+# Netclicks 🎬
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.1.
+Веб-приложение для поиска сериалов и подборок фильмов, разработанное на фреймворке **Angular**. Проект создан в рамках обучения фронтенд-разработке и демонстрирует навыки работы с компонентами, логикой на TypeScript и современной версткой.
 
-## Development server
+---
 
-To start a local development server, run:
+## 🚀 Особенности проекта
 
+* **Интерактивный интерфейс:** Удобная поисковая строка для быстрого поиска сериалов.
+* **Кастомные подборки:** Разделы с рекомендациями (например, "Топ-250", "Посмеяться от души", "Запутанный сюжет").
+* **Архитектура Angular:** Логика приложения полностью перенесена на компоненты и TypeScript.
+* **Адаптивная верстка:** Интерфейс корректно отображается на различных экранах.
+
+---
+
+## 🛠 Технологический стек
+
+* **Framework:** Angular 
+* **Languages:** TypeScript, HTML5, CSS3
+* **Tools:** Angular CLI, Git, VS Code
+
+---
+
+## 📂 Структура приложения
+
+* `src/app/` — основные компоненты, шаблоны и логика приложения.
+* `public/` — статические ресурсы, изображения и иконки.
+* `angular.json` / `tsconfig.json` — конфигурационные файлы проекта.
+
+---
+
+## 🔧 Как запустить проект локально
+
+1. Клонируйте репозиторий:
 ```bash
-ng serve
+   git clone [https://github.com/xycu2/netclicks-angular.git](https://github.com/xycu2/netclicks-angular.git)
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
+2. Перейдите в папку с проектом:
 ```bash
-ng generate component component-name
+   cd netclicks-angular
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
+3. Установите зависимости:
 ```bash
-ng generate --help
+   npm install
 ```
 
-## Building
-
-To build the project run:
-
+4. Запустите сервер для разработки::
 ```bash
-ng build
+   ng serve
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Откройте в браузере адрес http://localhost:4200/.
