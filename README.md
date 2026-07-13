@@ -21,11 +21,11 @@ A web application for searching TV series and movie collections, developed using
 
 ---
 
-## 📂 Структура приложения
+## 📂 Application Structure
 
-* `src/app/` — основные компоненты, шаблоны и логика приложения.
-* `public/` — статические ресурсы, изображения и иконки.
-* `angular.json` / `tsconfig.json` — конфигурационные файлы проекта.
+* `src/app/` — main components, templates, and application logic.
+* `public/` — static resources, images, and icons.
+* `angular.json` / `tsconfig.json` — project configuration files.
 
 ---
 
