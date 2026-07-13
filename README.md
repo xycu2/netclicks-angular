@@ -1,6 +1,6 @@
-# Netclicks 🎬
+#Netclicks 🎬
 
-Веб-приложение для поиска сериалов и подборок фильмов, разработанное на фреймворке **Angular**. Проект создан в рамках обучения фронтенд-разработке и демонстрирует навыки работы с компонентами, логикой на TypeScript и современной версткой.
+A web application for searching TV series and movie collections, developed using the Angular framework. The project was created as part of a front-end development training course and demonstrates skills in working with components, TypeScript logic, and modern markup.
 
 ---
 
