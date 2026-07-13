@@ -4,12 +4,12 @@ A web application for searching TV series and movie collections, developed using
 
 ---
 
-## 🚀 Особенности проекта
+## 🚀 Project Features
 
-* **Интерактивный интерфейс:** Удобная поисковая строка для быстрого поиска сериалов.
-* **Кастомные подборки:** Разделы с рекомендациями (например, "Топ-250", "Посмеяться от души", "Запутанный сюжет").
-* **Архитектура Angular:** Логика приложения полностью перенесена на компоненты и TypeScript.
-* **Адаптивная верстка:** Интерфейс корректно отображается на различных экранах.
+* **Interactive Interface:** Convenient search bar for quickly finding TV series.
+* **Custom Collections:** Sections with recommendations (e.g., "Top 250," "Have a Good Laugh," "Twisted Plot").
+* **Angular Architecture:** The application logic has been completely converted to components and TypeScript.
+* **Responsive Layout:** The interface displays correctly on different screen sizes.
 
 ---
 
