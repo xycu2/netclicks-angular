@@ -29,7 +29,7 @@ A web application for searching TV series and movie collections, developed using
 
 ---
 
-## 🔧 Как запустить проект локально
+## 🔧 How to run a project locally
 
 1. Клонируйте репозиторий:
 ```bash
