@@ -13,9 +13,9 @@ A web application for searching TV series and movie collections, developed using
 
 ---
 
-## 🛠 Технологический стек
+## 🛠 Tech Stack
 
-* **Framework:** Angular 
+* **Framework:** Angular
 * **Languages:** TypeScript, HTML5, CSS3
 * **Tools:** Angular CLI, Git, VS Code
 
