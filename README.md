@@ -46,7 +46,7 @@ A web application for searching TV series and movie collections, developed using
    npm install
 ```
 
-4. Запустите сервер для разработки::
+4. Start the development server:
 ```bash
    ng serve
 ```
