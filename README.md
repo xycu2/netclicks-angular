@@ -51,4 +51,4 @@ A web application for searching TV series and movie collections, developed using
    ng serve
 ```
 
-Откройте в браузере адрес http://localhost:4200/.
+Open the address http://localhost:4200/ in your browser.
