@@ -36,7 +36,7 @@ A web application for searching TV series and movie collections, developed using
    git clone [https://github.com/xycu2/netclicks-angular.git](https://github.com/xycu2/netclicks-angular.git)
 ```
 
-2. Перейдите в папку с проектом:
+2. Go to the project folder:
 ```bash
    cd netclicks-angular
 ```
