@@ -41,7 +41,7 @@ A web application for searching TV series and movie collections, developed using
    cd netclicks-angular
 ```
 
-3. Установите зависимости:
+3. Install dependencies:
 ```bash
    npm install
 ```
